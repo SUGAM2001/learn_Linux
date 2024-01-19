@@ -21,7 +21,7 @@ Other Linux Commands:
   
 ####  Commands you will learn on the go:
 ```
- <b> Start with: </b>pwd, uname, ls, top, atop, htop, mkdir, cd, rmdir, rm, cat touch, wc, head, tail;
+  Start with: pwd, uname, ls, top, atop, htop, mkdir, cd, rmdir, rm, cat touch, wc, head, tail;
   Let's Find Out: ls -alh, ps aux, clear, ctrl+l, locate, find, whereis;
   Don't let interest go away: sl,
   Do some tricks: history, kill, cp, mv, ssh, scp, rsync, df -h, du, cmp, sudo, apt, snap, chmod, free;
