@@ -1,5 +1,5 @@
 #### Command to display linux system detail
-lsb_release -a
+lsb_release -a 
 <div style="width: 100%;">
   <img src="https://raw.githubusercontent.com/abhinandan0y/learn_Linux/main/images/Screenshotfrom2024-03-2000-45-41.png" style="width: 100%;" alt="loading...">
 </div>
