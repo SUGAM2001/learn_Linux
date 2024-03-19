@@ -1,6 +1,6 @@
 # learn_Linux
 
-Basic Commands:
+```Basic Commands:```
  
 AWK/CUT: to cut/ extract column or rows based on pattern
   
@@ -17,7 +17,7 @@ GREP: to grab or search pattern
   Detach from system nohup = no hang up to detach and run even after exiting terminal.
   CPU utilization: taskset = assign  specific cpu range to specific command i.e sets the CPU affinity.
 ```
-Other Linux Commands:
+```Other Linux Commands:```
   
 ####  Commands you will learn on the go:
 ```
