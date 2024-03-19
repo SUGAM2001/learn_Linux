@@ -32,7 +32,7 @@ Other Linux Commands:
   Last login: last -x.
 ```
 <div style="width: 100%;">  
-  <img src="https://raw.githubusercontent.com/abhinandan0y/tree/main/images/linuxCommands.png" style="width: 100%;" alt="loading...">
+  <img src="https://raw.githubusercontent.com/abhinandan0y/abhinandan0y/main/images/linuxCommands.png" style="width: 100%;" alt="loading...">
 </div>
 
 **#Knowlegde is FREE but Solution is Your's🤘🏻**
