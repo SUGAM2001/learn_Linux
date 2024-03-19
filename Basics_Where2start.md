@@ -21,8 +21,15 @@ user_name ALL=(ALL)  ALL
   <img src="https://raw.githubusercontent.com/abhinandan0y/learn_Linux/main/images/Screenshotfrom2024-03-20%2002-08-53.png" style="width: 100%;" alt="loading...">
 </div>
 
-#### 4. Do some tricks: history, kill, cp, mv, ssh, scp, rsync, df -h, du, cmp, sudo, apt, snap, chmod, free;
+#### 4. Do some tricks: history, kill, cp, mv
 ```history
 history -set +o turn on
 history -set -o turn on
+
+cp filename destination
+
+mv: used to rename and move
+mv filename new_name     :rename 🥇
+mv filename destination/ :move
 ```
+#### Advanced Tricks :😏 - ssh, scp, rsync, df -h, du, cmp, sudo, apt, snap, chmod, free;
