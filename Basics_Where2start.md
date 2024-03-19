@@ -7,7 +7,9 @@ lsb_release -a
 #### 1.Start with: pwd, uname, ls, top, atop, htop, mkdir, cd, rmdir, rm, cat touch, wc, head, tail;
 ```
 pwd: Present Working Directory
-
+<div style="width: 100%;">
+  <img src="https://raw.githubusercontent.com/abhinandan0y/learn_Linux/main/images/Screenshotfrom2024-03-2001-21-46.png" style="width: 100%;" alt="loading...">
+</div>
 top: a)PID, b)USER, c)%CPU, d)%MEM, e)TIME, f)COMMAND, g)TASKS, h)Mib Mem, i)MiB Swap 
 htop: error
 sudo apt install htop.
