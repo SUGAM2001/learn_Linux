@@ -16,12 +16,12 @@ user_name ALL=(ALL)  ALL
 #### 2. Let's Find Out: ls -alh, ps aux, clear, ctrl+l, locate, find.
 ```ls ; ls -a; ls -l; ls -al; ls -alh```
 
-#### 3.   Don't let interest go away: sl,
+#### 3. Don't let interest go away: sl,
 https://github.com/abhinandan0y/learn_Linux/tree/main/images/Screenshot from 2024-03-20 02-08-53.png
 <div style="width: 100%;">
-  <img src="../images/Screenshotfrom2024-03-20 02-08-53.png" style="width: 100%;" alt="loading...">
+  <img src="https://raw.githubusercontent.com/abhinandan0y/learn_Linux/main/images/Screenshotfrom2024-03-20%2002-08-53.png" style="width: 100%;" alt="loading...">
 </div>
-#### 4.   Do some tricks: history, kill, cp, mv, ssh, scp, rsync, df -h, du, cmp, sudo, apt, snap, chmod, free;
+#### 4. Do some tricks: history, kill, cp, mv, ssh, scp, rsync, df -h, du, cmp, sudo, apt, snap, chmod, free;
 ```history
 history -set +o turn on
 history -set -o turn on
