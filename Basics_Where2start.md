@@ -18,6 +18,7 @@ Then add the user below admin user like below syntax.
 user_name ALL=(ALL)  ALL
 ```
 #### 2. Let's Find Out: ls -alh, ps aux, clear, ctrl+l, locate, find.
+```wc -l filename```
 ```ls ; ls -a; ls -l; ls -al; ls -alh```
 <div style="width: 100%;">
   <img src="https://raw.githubusercontent.com/abhinandan0y/learn_Linux/main/images/Screenshotfrom2024-03-2001-39-17.png" style="width: 100%;" alt="loading...">
@@ -40,3 +41,4 @@ mv filename new_name     :rename 🥇
 mv filename destination/ :move
 ```
 #### Advanced Tricks :😏 - ssh, scp, rsync, df -h, du, cmp, sudo, apt, snap, chmod, free;
+### To be Continued...
