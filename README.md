@@ -31,8 +31,8 @@ Other Linux Commands:
   Compilers: java, g++, gcc; 
   Last login: last -x.
 ```
-<div style="width: 100%;">
-  <img src="https://raw.githubusercontent.com/abhinandan0y/learn_Linux/main/images/linuxCommands.png" style="width: 100%;" alt="loading...">
+<div style="width: 100%;">  
+  <img src="https://raw.githubusercontent.com/abhinandan0y/abhinandan0y/tree/main/images/linuxCommands.png" style="width: 100%;" alt="loading...">
 </div>
 
 **#Knowlegde is FREE but Solution is Your's🤘🏻**
