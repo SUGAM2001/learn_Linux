@@ -17,6 +17,10 @@ user_name ALL=(ALL)  ALL
 ```ls ; ls -a; ls -l; ls -al; ls -alh```
 
 #### 3.   Don't let interest go away: sl,
+https://github.com/abhinandan0y/learn_Linux/tree/main/images/Screenshot from 2024-03-20 02-08-53.png
+<div style="width: 100%;">
+  <img src="https://github.com/abhinandan0y/learn_Linux/tree/main/images/Screenshot\ from\ 2024-03-20 02-08-53.png" style="width: 100%;" alt="bioinformatics_lab.png">
+</div>
 #### 4.   Do some tricks: history, kill, cp, mv, ssh, scp, rsync, df -h, du, cmp, sudo, apt, snap, chmod, free;
 ```history
 history -set +o turn on
