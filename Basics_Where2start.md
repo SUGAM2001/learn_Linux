@@ -7,9 +7,7 @@ lsb_release -a
 #### 1.Start with: pwd, uname, ls, top, atop, htop, mkdir, cd, rmdir, rm, cat touch, wc, head, tail;
 ```
 pwd: Present Working Directory
-<div style="width: 100%;">
-  <img src="https://raw.githubusercontent.com/abhinandan0y/learn_Linux/main/images/Screenshotfrom2024-03-2001-21-46.png" style="width: 100%;" alt="loading...">
-</div>
+
 top: a)PID, b)USER, c)%CPU, d)%MEM, e)TIME, f)COMMAND, g)TASKS, h)Mib Mem, i)MiB Swap 
 htop: error
 sudo apt install htop.
@@ -19,6 +17,10 @@ nano /etc/sudoers
 Then add the user below admin user like below syntax.
 user_name ALL=(ALL)  ALL
 ```
+<div style="width: 100%;">
+  <img src="https://raw.githubusercontent.com/abhinandan0y/learn_Linux/main/images/Screenshotfrom2024-03-2001-21-46.png" style="width: 100%;" alt="loading...">
+</div>
+
 #### 2. Let's Find Out: ls -alh, ps aux, clear, ctrl+l, locate, find.
 ```wc -l filename```
 ```ls ; ls -a; ls -l; ls -al; ls -alh```
