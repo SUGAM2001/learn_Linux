@@ -5,6 +5,10 @@ lsb_release -a
 </div>
 
 #### 1.Start with: pwd, uname, ls, top, atop, htop, mkdir, cd, rmdir, rm, cat touch, wc, head, tail;
+<div style="width: 100%;">
+  <img src="https://raw.githubusercontent.com/abhinandan0y/learn_Linux/main/images/Screenshotfrom2024-03-2001-39-17.png" style="width: 100%;" alt="loading...">
+</div>
+
 ```
 pwd: Present Working Directory
 
@@ -24,9 +28,6 @@ user_name ALL=(ALL)  ALL
 #### 2. Let's Find Out: ls -alh, ps aux, clear, ctrl+l, locate, find.
 ```wc -l filename```
 ```ls ; ls -a; ls -l; ls -al; ls -alh```
-<div style="width: 100%;">
-  <img src="https://raw.githubusercontent.com/abhinandan0y/learn_Linux/main/images/Screenshotfrom2024-03-2001-39-17.png" style="width: 100%;" alt="loading...">
-</div>
 
 #### 3. Don't let interest go away: sl,
 <div style="width: 100%;">
