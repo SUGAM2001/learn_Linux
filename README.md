@@ -31,9 +31,9 @@ GREP: to grab or search pattern
   Compilers: java, g++, gcc; 
   Last login: last -x.
 ```
-<div style="width: 100%;">  
+<!--<div style="width: 100%;">  
   <img src="https://raw.githubusercontent.com/abhinandan0y/abhinandan0y/main/images/linuxCommands.png" style="width: 100%;" alt="loading...">
-</div>
+</div> -->
 
 **#Knowlegde is FREE but Solution is Your's🤘🏻**
 
