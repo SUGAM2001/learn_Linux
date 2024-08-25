@@ -1,12 +1,12 @@
 # learn_Linux
 
-```Basic Commands:```
+<h1> Basic Commands: </h1>
  
-AWK/CUT: to cut/ extract column or rows based on pattern
+`AWK/CUT:` to cut/ extract column or rows based on pattern
   
-SED: to set data according to your need
+`SED:` to set data according to your need
  
-GREP: to grab or search pattern
+`GREP:` to grab or search pattern
 
 #### Handy Commands: For fast processing and utilization
 ```
