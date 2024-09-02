@@ -90,7 +90,8 @@ This guide provides a solid foundation for navigating and utilizing Linux effici
 
 
 
-**Keep on Learning and Executing...🏃🏻** contact@:bioinformaticsfuture@gmail.com
+**Keep on Learning and Executing...🏃🏻** 
+`contact@`: bioinformaticsfuture@gmail.com
 <!--<div style="width: 100%;">
   <img src="https://www.bioinformaticsfuture.com/images/bioinformatics_lab.png" style="width: 100%;" alt="bioinformatics_lab.png">
 </div> -->
